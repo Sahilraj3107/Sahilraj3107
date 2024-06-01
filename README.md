@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Sahil Raj</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvQlBh_7zfgHZXeWUmsyEmuq--wRfyYhrZTQ&s"> 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilraj3107&label=Profile%20views&color=0e75b6&style=flat" alt="sahilraj3107" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilraj3107&label=Profile%20views&color=0e75b6&style=flat" alt="sahilraj3107" /> </p> -->
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
